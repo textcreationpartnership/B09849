@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against the frequent naturalization of aliens</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09849</idno><idno type="EEBO-CITATION">62369624</idno>
+  <idno type="VID">188105</idno>
+  <idno type="EEBO-PROQUEST">2240884068</idno>
+  
+            <idno type="STC">Wing R529</idno>
+            <idno type="STC">ESTC R182444</idno>
+            <idno type="OCLC">62369624</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188105)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against the frequent naturalization of aliens</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside creased and stained.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="topical_term">Naturalization --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188105:1"/>
+            <head>REASONS Humbly offered against The frequent Naturalization of Aliens.</head>
+            <p>IT has been the Prudence of the Princes of this Nation, always to take care to make a Distinction between Natural born Subjects and Aliens of other Kingdoms, and have never incouraged, nor indeed tolerated them in any thing futher than that which might directly or collaterally be judged and esteemed for the Interest of their Natives: Neither were Aliens, in any Age, for any proposed Advantages, favoured and eased in any thing, but Experience immediately discovered many great Mischiefs to attend. Some of which are enu<g ref="char:EOLhyphen"/>merated in an Act made for redressing these Grievances, <hi>Anno Henrici septimi, Cap.</hi> 2. and are hereafter mentioned.</p>
+            <list>
+               <item>First and Principally, <hi>The advancing Aliens in Riches and Honour, and impoverishing the Native Subjects,</hi> Secondly, <hi>The exhausting the Treasure of the Nation, and remitting the same into Foreign Nations.</hi>
+               </item>
+               <item>Thirdly, <hi>The great hurt in imparing and lessening the King's Customs, the Publick Revenue of the Nation.</hi>
+               </item>
+               <item>Fourthly, <hi>That Merchants Aliens colour the Goods and Merchandizes of other Strangers (not Naturalized or made Denizons) and Export great and considerable Substance in their Names.</hi>
+               </item>
+            </list>
+            <p>Herewith agree the Statutes of 11 <hi>H.</hi> 7. <hi>cap.</hi> 14. and 22 <hi>H.</hi> 8. <hi>cap.</hi> 8. pursuant to the design of which Laws, few or no Aliens were Natura<g ref="char:EOLhyphen"/>lized during the Reigns of King <hi>Edward</hi> the Sixth, Queen <hi>Mary,</hi> Queen <hi>Elizabeth,</hi> and King <hi>James.</hi> And how greatly the Trade and Wealth of the Nation were thereby increased, during the prosperous Reigns of the two latter of the said Princes, none that are conversant in History can be ignorant of.</p>
+            <p>Besides which Mischiefs, Experience hath discovered further Inconveniencies, in admitting Aliens and Strangers to have and enjoy a free Trade upon equal Terms with His Majesties Native Subjects. As,</p>
+            <p>That the Trade, by Commission would be by Aliens taken out of the Hands of His Majesties Subjects, both at home and abroad, and the <hi>English</hi> Merchants would be undersold in the Prizes of their Commodities by Aliens, who can live more hardly, and at less Charges, in Lodg<g ref="char:EOLhyphen"/>ings, <hi>&amp;c.</hi> then the King's Subjects, to the Discouragement of the Gentry, in training up their younger Sons in Trade, which was formerly esteemed and proved a good Provision for them, and many arrived thereby to great Estates and Preferment, which few now do.</p>
+            <p>By the second Rule in the Book of Rates, annexed to the Act of Tonnage and Poundage, Goods Imported, and again Exported by <hi>English</hi> in Twelve Months, and Aliens in Nine Months, draw from Their Majesties half the Customs paid by them on the Importation and in some Cases more than half.</p>
+            <p>By the Act of Tonnage and Poundange, Merchants <hi>English</hi> sustaining loss in their Goods Exported, by Enemies, Pirates, or perishing in the Sea, draw back the whole Custom from His Majesty, which Prejudice His Majestie will sustain from Aliens Naturalized.</p>
+            <p>
+               <hi>By the Act of Navigation for the increase of Mariners and Shipping, it is provided, That sundry Commodities, such as Masts Timber-boards, Foreign Salt, Pitch, Tar,</hi> &amp;c. <hi>imported in any other Ship or Vessel than what is English Built, or truly and without fraud, belonging to the People of</hi> England, <hi>and which is otherwise Navigated and Manned than the said Act directs,</hi> viz. <hi>The Master, and three Fourths of the Mariners (not being English) shall be deemed Aliens Goods, and pay Customs, and City, Town, and Port Duties, and the Goods of Alie<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi>
+            </p>
+            <p>Now if Aliens be Naturalized, the true intent of this Act is frustrated, the Mariners discouraged, and driven into Foreign Parts for a Lively-hood, and the Building of Shipping (the strength of the Nation) made of little or no advantage.</p>
+            <p>The Increasing the Importation of Commodities, and thereby His Majesties Customs, the only Advantage proposed by the Naturalizing Aliens, will in half a Years time, at furthest, be frustrated; Inasmuch as this Nation cannot consume all the Commodities Imported, which will occasion the Price to fall, and so the Importation by consequence to cease: For it is evident, that no Commodity bears a Price, and turns to Accompt, but the Supplies are so considerable in three Months, in the same becomes a Drug.</p>
+            <p>And moreover, it is not to be forgotten, That even in <hi>Holland,</hi> where for Reasons inconsistent with the Nature and Constitution of this Kingdom, they have admitted Foreigners to a free Trade with them, yet even there a very considerable difference is made between Aliens and Natives: For Aliens pay there, upon Importation and Exportation of their Commodities, considerable Duties and Tolls to the City, Town, and Port, where the unlade their Goods, which are not paid by Natives.</p>
+            <p>In fine, It is conceived to be great Prudence for all <hi>English</hi> Subjects, for the Benefit of themselves and their Posterity, to use all discreet and lawful means to prevent these frequent Naturalizations of Aliens, as well for keeping up and increase of His Majesties Revenue, for preserving and maintaining the Honour and Interest of the English and Native Merchants, and preferring the younger Sons of the English Gentry, as ge<g ref="char:EOLhyphen"/>nerally for advancing the good of all His Majesties Subjects, and keeping up the Magistracy in all Corporations in its due Honour and Repu<g ref="char:EOLhyphen"/>tation, by preserving their Tolls, City, Town, and Port Duties.</p>
+            <p>But if it shall be thought fit still to continue this great favour to Strangers, it is Humbly Desired that it may be with this Provisoe; <hi>(That they may not be in better Circumstances than our Natives Freemen,)</hi> Viz.</p>
+            <p>
+               <hi>Provided always, and be it further Enacted by the Authority aforesaid, that nothing in this present Act contained shall exempt or be construed to exempt any of the said Persons whatsoever who shall claim or receive any Benefit by this Act, from the Payment unto the Mayor, Commonalty, and Citizens of the City of</hi> London, <hi>any Tolls or Du<g ref="char:EOLhyphen"/>ties whatsoever heretofore Lawfully Enjoyed or Received by them; But the same shall still be Paid, as it this Act had not been made.</hi>
+            </p>
+            <pb facs="tcp:188105:2"/>
+            <pb facs="tcp:188105:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
